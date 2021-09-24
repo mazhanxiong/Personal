@@ -30,3 +30,12 @@ Publisher: <i>The 29th International Ocean and Polar Engineering Conference</i>.
 Authors: <b>Zhanxiong Ma</b>, Hoon Sohn. <br>
 Publisher: <i>The 32nd KKHTCNN Symposium on Civil Engineering</i>.<br>
 
+## 2016
+* <b>[Journal] Identification of Soil Liquefaction Using Surface and Borehole Strong Ground Motion</b>. <br>
+Authors: Yingfeng Dong, <b>Zhanxiong Ma</b>, Shun Chen, Qiang Zhao. <br>
+Publisher: <i>Journal of Building Structure (In Chinese, EI)</i>.<br>
+
+
+* <b>[Journal] Seismic Performance Evaluation on Steel Frame Thermal Power Plants Main Building</b>. <br>
+Authors: Yingfeng Dong, Qiang Zhao, <b>Zhanxiong Ma</b>, Yunhao Li. <br>
+Publisher: <i>Journal of Building Structure (In Chinese, EI)</i>.<br>
