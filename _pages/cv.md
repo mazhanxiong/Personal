@@ -16,24 +16,14 @@ redirect_from:
 * **M.S.**, Architecture and Civil Engineering, School of Civil Engineering, Chongqing University (CQU), Chongqing, People’s Republic of China, 2014-2017
 
 * **Ph.D.**, Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea, 2017-2022
-
-## Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 ## Awards and Honors
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+1.	**KAIST International Scholarship**: Daejeon, Korea Advanced Institute of Science and Technology, 2017.08.
+2.	**Provincial Excellent Graduate Student**: Chongqing, Chongqing Education Commission, 2017.04. (only awarded to top 1% students)
+3.	**Excellent Graduate Student: Chongqing**, Chongqing University, 2017.03.
+4.	**National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2015.12 & 2016.12. (only awarded to top 2% students).
+5.	**National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2015.12 & 2016.12. (only awarded to top 2% students).
+6.	**Excellent Undergraduate Student**: Wuhan, Huazhong University of Science and Technology, 2014. 06.
+7.	**Merit Student**: Wuhan, Huazhong University of Science and Technology, 2012.12.
+
