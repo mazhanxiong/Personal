@@ -12,3 +12,11 @@ author_profile: true
 [[PDF]](https://lijian.ac.cn/files/2017_IJCAI_KS/2017_kernel_selection.pdf)
 [[Poster]](https://lijian.ac.cn/files/2017_IJCAI_KS/ijicai-poster-0816.pdf)
 [[Sildes]](https://lijian.ac.cn/files/2017_IJCAI_KS/IJCAI_presentation.pptx)
+
+## 2019
+* <b>Structural Displacement Estimation by FIR Filter Based Fusion of Strain and Acceleration Measurements</b>. <br>
+<b>Zhanxiong Ma</b>, Hoon Sohn. <i>In the 29th International Ocean and Polar Engineering Conference</i>.<br>
+
+* <b>FIR Filter Based Bridge Displacement Estimation Using Strain and Acceleration Measurements</b>. <br>
+<b>Zhanxiong Ma</b>, Hoon Sohn. <i>In the 32nd KKHTCNN Symposium on Civil Engineering</i>.<br>
+
