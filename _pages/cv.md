@@ -27,7 +27,7 @@ redirect_from:
 
 * **National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2016.12. 
  
-* *National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2015.12. 
+* **National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2015.12. 
 
 * **Excellent Undergraduate Student**: Wuhan, Huazhong University of Science and Technology, 2014. 06.
 
