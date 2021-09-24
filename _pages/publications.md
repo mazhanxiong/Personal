@@ -4,19 +4,29 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2021
-* <b>Real‐time structural displacement estimation by fusing asynchronous acceleration and computer vision measurements</b>. <br>
-<b>Zhanxiong Ma</b>, Jaemook Choi, Hoon Sohn. <i>Computer‐Aided Civil and Infrastructure Engineering</i>.<br>
+* <b>[Journal] Real‐time structural displacement estimation by fusing asynchronous acceleration and computer vision measurements</b>. <br>
+Authors: <b>Zhanxiong Ma</b>, Jaemook Choi, Hoon Sohn. <br>
+Publisher: <i>Computer‐Aided Civil and Infrastructure Engineering (IF:11.775)</i>.<br>
 
-* <b>Bridge displacement estimation by fusing accelerometer and strain gauge measurements</b>. <br>
-<b>Zhanxiong Ma</b>, Junyeon Chung, Peipei Liu, Hoon Sohn. <i>Structural Control and Health Monitoring</i>.<br>
-[[PDF]](https://lijian.ac.cn/files/2017_IJCAI_KS/2017_kernel_selection.pdf)
-[[Poster]](https://lijian.ac.cn/files/2017_IJCAI_KS/ijicai-poster-0816.pdf)
-[[Sildes]](https://lijian.ac.cn/files/2017_IJCAI_KS/IJCAI_presentation.pptx)
+* <b>[Journal] Bridge displacement estimation by fusing accelerometer and strain gauge measurements</b>. <br>
+Authors: <b>Zhanxiong Ma</b>, Junyeon Chung, Peipei Liu, Hoon Sohn. <br>
+Publisher: <i>Structural Control and Health Monitoring (IF:4.819)</i>.<br>
+
+## 2020
+* <b>[Patent] Structural Displacement Estimation by FIR Filter Based Fusion of Strain and Acceleration Measurements</b>. <br>
+Authors: <b>Zhanxiong Ma</b>, Hoon Sohn. <br>
+Publisher: <i>Korea Patent</i>.<br>
+
+* <b>[Patent] FIR Filter Based Bridge Displacement Estimation Using Strain and Acceleration Measurements</b>. <br>
+Authors: <b>Zhanxiong Ma</b>, Hoon Sohn. <br>
+Publisher: <i>Korea Patent</i>.<br>
 
 ## 2019
-* <b>Structural Displacement Estimation by FIR Filter Based Fusion of Strain and Acceleration Measurements</b>. <br>
-<b>Zhanxiong Ma</b>, Hoon Sohn. <i>In the 29th International Ocean and Polar Engineering Conference</i>.<br>
+* <b>[Conference] Structural Displacement Estimation by FIR Filter Based Fusion of Strain and Acceleration Measurements</b>. <br>
+Authors: <b>Zhanxiong Ma</b>, Hoon Sohn. <br>
+Publisher: <i>The 29th International Ocean and Polar Engineering Conference</i>.<br>
 
-* <b>FIR Filter Based Bridge Displacement Estimation Using Strain and Acceleration Measurements</b>. <br>
-<b>Zhanxiong Ma</b>, Hoon Sohn. <i>In the 32nd KKHTCNN Symposium on Civil Engineering</i>.<br>
+* <b>[Conference] FIR Filter Based Bridge Displacement Estimation Using Strain and Acceleration Measurements</b>. <br>
+Authors: <b>Zhanxiong Ma</b>, Hoon Sohn. <br>
+Publisher: <i>The 32nd KKHTCNN Symposium on Civil Engineering</i>.<br>
 
