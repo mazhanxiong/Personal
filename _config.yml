@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhanxiong Ma"
   avatar           : "profile.png"
-  bio              : "5th year Ph. D student at KAIST"
-  location         : "Daejeon, Korea"
+  bio              : "5th year Ph D student at KAIST"
+  location         : "Daejeon Korea"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gNvmmt0AAAAJ&hl=zh-CN"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Zhanxiong-Ma"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
- # twitter          : "replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
