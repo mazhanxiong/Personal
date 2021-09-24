@@ -19,11 +19,17 @@ redirect_from:
   
 ## Awards and Honors
 
-1.	**KAIST International Scholarship**: Daejeon, Korea Advanced Institute of Science and Technology, 2017.08.
-2.	**Provincial Excellent Graduate Student**: Chongqing, Chongqing Education Commission, 2017.04.
-3.	**Excellent Graduate Student: Chongqing**, Chongqing University, 2017.03.
-4.	**National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2016.12. 
-5.	**National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2015.12. 
-6.	**Excellent Undergraduate Student**: Wuhan, Huazhong University of Science and Technology, 2014. 06.
-7.	**Merit Student**: Wuhan, Huazhong University of Science and Technology, 2012.12.
+* **KAIST International Scholarship**: Daejeon, Korea Advanced Institute of Science and Technology, 2017.08.
+
+* **Provincial Excellent Graduate Student**: Chongqing, Chongqing Education Commission, 2017.04.
+
+* **Excellent Graduate Student: Chongqing**, Chongqing University, 2017.03.
+
+* **National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2016.12. 
+ 
+* *National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2015.12. 
+
+* **Excellent Undergraduate Student**: Wuhan, Huazhong University of Science and Technology, 2014. 06.
+
+* **Merit Student**: Wuhan, Huazhong University of Science and Technology, 2012.12.
 
