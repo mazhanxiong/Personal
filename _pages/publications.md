@@ -24,7 +24,7 @@ author_profile: true
 
 9. **Zhanxiong Ma**, Hoon Sohn\*. [Structural Displacement Estimation by FIR Filter Based Fusion of Strain and Acceleration Measurements](https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE19/All-ISOPE19/ISOPE-I-19-637/21666). The 29th International Ocean and Polar Engineering Conference (ISOPE 2019), Honolulu, USA, June 16-21, 2019
 
-11. **Zhanxiong Ma**, Hoon Sohn\*. [Data Fusion Based Structural Displacement Estimation Using Strain and Acceleration Measurements](). The Annual Conference of Earthquake Engineering Society of Korea (EESK), Suwon, Korea, Marth 16-21, 2019
+11. **Zhanxiong Ma**, Hoon Sohn\*. [Data Fusion Based Structural Displacement Estimation Using Strain and Acceleration Measurements](https://github.com/mzhx2017/Personal/blob/master/_publications/Conference%20Program.pdf). The Annual Conference of Earthquake Engineering Society of Korea (EESK), Suwon, Korea, Marth 16-21, 2019
 
 13. Wenju Liang, Yingfeng Dong\*, Kaiqi He, **Zhanxiong Ma**. [Incremental Dynamic Analysis and Vulnerability Analysis of Structures](http://www.i-asem.org/publication_conf/structures18/8.ASMM18/YP.63.SM1559_5252F6.pdf). The 2018 Structures Congress (Structures18), Incheon, Korea, August 27-31, 2018
 
