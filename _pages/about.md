@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal page ([Chinese version](https://mzhx2017.github.io/Personal/publications/))"
+title: "Welcome to my personal page ([Chinese version](https://github.com/mzhx2017/Personal_CN/))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
