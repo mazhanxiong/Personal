@@ -12,3 +12,4 @@ This is **Zhanxiong Ma**, a fifth-year PhD student in [the Department of Civil a
 
 My research interests lie in the general area of strcural health monitoring, particularly in **structural displacement estimation using data-fusion techniques and computer vision algorithms**.
 
+[[Recent news about me]](https://mzhx2017.github.io/Personal/news/)
