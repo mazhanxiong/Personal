@@ -11,11 +11,16 @@ redirect_from:
 
 ## Education
 
-* **B.S.**, Civil Engineering, School of Civil Engineering and Mechanics, Huazhong University of Science and Technology (HUST), Wuhan, People’s Republic of China, 2010-2014
+* **2010/09 ~ 2014/06: B.S. in Civil Engineering**
+  * School of Civil Engineering and Mechanics, Huazhong University of Science and Technology (HUST), Wuhan, China
 
-* **M.S.**, Architecture and Civil Engineering, School of Civil Engineering, Chongqing University (CQU), Chongqing, People’s Republic of China, 2014-2017
+* **2014/09 ~ 2017/06: M.S. in Architecture and Civil Engineering**
+  * School of Civil Engineering, Chongqing University (CQU), Chongqing, China
+  * Thesis: Wave-theory-based structural damage detection.
 
-* **Ph.D.**, Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea, 2017-2022
+* **2017/08 ~ 2022/08: Ph.D. in Civil Engineering**
+  * Department of Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
+  * Thesis: Data-fusion-based structural displacement estimation.
   
 ## Awards and Honors
 
@@ -23,7 +28,7 @@ redirect_from:
 
 * **Provincial Excellent Graduate Student**: Chongqing, Chongqing Education Commission, 2017.04.
 
-* **Excellent Graduate Student: Chongqing**, Chongqing University, 2017.03.
+* **Excellent Graduate Student**: Chongqing, Chongqing University, 2017.03.
 
 * **National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China, 2016.12. 
  
