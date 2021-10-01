@@ -15,7 +15,7 @@ author_profile: true
     <img src="https://i.loli.net/2021/10/01/2YZQD4kvpKaflh3.jpg" width="210">
     <img src="https://i.loli.net/2021/10/01/pud4zIv5YnQXlec.jpg" width="210">
     
-* ** 2019/07/22~2019/07/25: Exhibition in [7WCSCM Conference](http://smc.hit.edu.cn/_upload/article/files/ff/27/15345c0442fbb2d5032d40c404a9/ecca0393-406d-4c80-94ce-bf42b8b15f4e.pdf), Qingdao, China**
+* **2019/07/22~2019/07/25: Exhibition in [7WCSCM Conference](http://smc.hit.edu.cn/_upload/article/files/ff/27/15345c0442fbb2d5032d40c404a9/ecca0393-406d-4c80-94ce-bf42b8b15f4e.pdf), Qingdao, China**
   * Objective: Promote our developed displacement sensor by fusing RTK-GNSS and acccelerometer.
  
     <img src="https://i.loli.net/2021/10/01/EO5ukMfWsgmy1tV.jpg" width="210">
