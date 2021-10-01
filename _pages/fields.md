@@ -14,7 +14,7 @@ author_profile: true
   * Location: Yeosu, korea 
   * Date: 06/12/2019
   * Objective: validated performance of our developed displacement sensor.
-  ![image](https://github.com/mzhx2017/Personal/blob/master/images/ysx.jpg)
+![github](https://github.com/mzhx2017/Personal/blob/master/images/ysx.jpg)
 * Field test on [Qingfeng Bridge](https://structurae.net/en/structures/qingfeng-bridge-2008-ningbo)
   * Location: Ningbo, China 
   * Date: 06/12/2018
