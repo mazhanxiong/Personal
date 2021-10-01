@@ -15,6 +15,7 @@ author_profile: true
   * Date: 06/12/2019
   * Objective: validated performance of our developed displacement sensor.
 ![github](https://github.com/mzhx2017/Personal/blob/master/images/ysx.jpg)
+![github](https://github.com/mzhx2017/Personal/blob/master/images/editing-talk.png)
 * Field test on [Qingfeng Bridge](https://structurae.net/en/structures/qingfeng-bridge-2008-ningbo)
   * Location: Ningbo, China 
   * Date: 06/12/2018
