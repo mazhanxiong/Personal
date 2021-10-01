@@ -10,7 +10,10 @@ main:
     url: /publications/
 
   - title: "News"
-    url: /news/    
+    url: /news/   
+    
+  - title: "Field activities"
+    url: /fields/  
     
 #  - title: "Portfolio"
 #    url: /portfolio/
