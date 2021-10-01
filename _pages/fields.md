@@ -14,8 +14,10 @@ author_profile: true
   * Location: Yeosu, korea 
   * Date: 06/12/2019
   * Objective: validated performance of our developed displacement sensor.
-  ![image](https://en.wikipedia.org/wiki/Yi_Sun-sin_Bridge#/media/File:Yi_Sun-sin_Bridge_in_construction2.jpg)
+  
+  <img src="https://github.com/mzhx2017/Personal/blob/master/images/ysx.jpg" width="300">  <img src="https://github.com/mzhx2017/Personal/blob/master/images/ysx2.jpg" width="300"> <img src="https://github.com/mzhx2017/Personal/blob/master/images/ysx3.jpg" width="300">
 * Field test on [Qingfeng Bridge](https://structurae.net/en/structures/qingfeng-bridge-2008-ningbo)
   * Location: Ningbo, China 
   * Date: 06/12/2018
   * Objective: validated performance of our developed displacement sensor.
+
