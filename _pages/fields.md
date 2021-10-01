@@ -1,1 +1,21 @@
-dd
+---
+title: ""
+permalink: /fields/
+author_profile: true
+---
+
+
+* Field test on a pedestrain steel-box girder bridge
+  * Location: The National Research Laboratory Program at National Research Foundation (NSF) of Korea 
+  * Date: 01/12/2021 
+  * Objective: develop a structural dsiplacement estimation technique for submeregd floating tunnels
+
+* Field test on [Yi Sun-sin Bridge](https://en.wikipedia.org/wiki/Yi_Sun-sin_Bridge)
+  * Location: Yeosu, korea 
+  * Date: 06/12/2019
+  * Objective: validated performance of our developed displacement sensor.
+  ![image](https://en.wikipedia.org/wiki/Yi_Sun-sin_Bridge#/media/File:Yi_Sun-sin_Bridge_in_construction2.jpg)
+* Field test on [Qingfeng Bridge](https://structurae.net/en/structures/qingfeng-bridge-2008-ningbo)
+  * Location: Ningbo, China 
+  * Date: 06/12/2018
+  * Objective: validated performance of our developed displacement sensor.
