@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-* **2020/08/15~2021/09/25: 3 Field tests on [a pedestrain steel-box girder bridge](https://www.google.com/maps/place/Wolpyeong+3(sam)-dong,+%E8%A5%BF%E5%8C%BA%E5%A4%A7%E5%BE%B7%E5%8C%BA/@36.3612886,127.3607529,15z/data=!3m1!4b1!4m5!3m4!1s0x35654bc489eb8001:0x7f8c6a79d4108647!8m2!3d36.3602604!4d127.3668764?hl=zh-cn), Daejeon, Korea**
+* **2020/08/15~2021/09/25: 3 field tests on [a pedestrain steel-box girder bridge](https://www.google.com/maps/place/Wolpyeong+3(sam)-dong,+%E8%A5%BF%E5%8C%BA%E5%A4%A7%E5%BE%B7%E5%8C%BA/@36.3612886,127.3607529,15z/data=!3m1!4b1!4m5!3m4!1s0x35654bc489eb8001:0x7f8c6a79d4108647!8m2!3d36.3602604!4d127.3668764?hl=zh-cn), Daejeon, Korea**
   * Objective: Validated performance of our proposed displacement estimation technique by fusing strain gauge and acccelerometer.
   
     <img src="https://i.loli.net/2021/10/02/AFgcl7rGv2Jq8oj.jpg" width="200">
@@ -31,6 +31,6 @@ author_profile: true
   * Objective: Validated performance of our developed displacement sensor by fusing RTK-GNSS and acccelerometer.
   
     <img src="https://i.loli.net/2021/10/02/MwqoKG1izeAmVjI.jpg" width="228">
-    <img src="https://i.loli.net/2021/10/02/Il4gEYMOR6JHSvi.jpg" width="173">
+    <img src="https://i.loli.net/2021/10/02/Il4gEYMOR6JHSvi.jpg" width="172">
     <img src="https://i.loli.net/2021/10/02/AU8fHSq596PEnwG.jpg" width="228">
    
