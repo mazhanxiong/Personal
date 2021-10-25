@@ -16,6 +16,8 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements](), The 11th International Conference on Bridge Maintenance, Safety and Management (IABMAS 2022), Barcelona, Spain, July 11-15, 2022.
 
+2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation through the fusion of FMCW millimeter wave radar and accelerometer](), the Eighth World Conference on Structural Control and Monitoring (8WCSCM), Florida, USA, June 5-8, 2022.
+
 3. Hoon Sohn\*, **Zhanxiong Ma**, Jaemook Choi. [Structural displacement estimation through multi-mode sensor fusion under GNSS-denied environments](https://icve.sjtu.edu.cn/wt_jb.html), The 8th International Conference on Vibration Engineering (ICVE 2021), Shanghai, China, July 23-26, 2021.
 
 5. Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Structural Displacement Estimation Fusing Accelerometer and Vision Camera](http://www.i-asem.org/publication_conf/structures20/6.SM/2.SM582/SM2582_6597A.pdf). The 2020 Structures Congress (Structures20), Seoul, Korea, August 25-29, 2020
