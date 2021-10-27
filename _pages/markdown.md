@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+* **2021.10.23**: We submitted a paper entitled *“[Structural displacement estimation through the fusion of FMCW millimeter wave radar and accelerometer]()”* to **[the Eighth World Conference on Structural Control and Monitoring (8WCSCM)](https://8wcscm.org/)**.
+
 * **2021.08.23**: Our paper entitled *“[Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12767)”* was accepted by **[Computer-aided Civil and Infrastructure Engineering (IF: 11.775)](https://onlinelibrary.wiley.com/journal/14678667)**.
 
 * **2021.08.18**: We submitted a paper entitled *“[Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements]()”* to **[the 11th International Conference on Bridge Maintenance, Safety and Management (IABMAS 2022)](https://congress.cimne.com/iabmas2022/frontal/default.asp)**.
