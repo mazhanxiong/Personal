@@ -18,11 +18,13 @@ author_profile: true
 
 2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation through the fusion of FMCW millimeter wave radar and accelerometer](), the Eighth World Conference on Structural Control and Monitoring (8WCSCM), Florida, USA, June 5-8, 2022.
 
-3. Hoon Sohn\*, **Zhanxiong Ma**, Jaemook Choi. [Structural displacement estimation through multi-mode sensor fusion under GNSS-denied environments](https://icve.sjtu.edu.cn/wt_jb.html), The 8th International Conference on Vibration Engineering (ICVE 2021), Shanghai, China, July 23-26, 2021.
+3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn*. Millimeter wave radar and accelerometer based strucural displacement estimation, the 2021 Technique Conference of Korean Institute of Bridge and Structural Engineers (KIBSE), Online, November 26, 2022.
 
-5. Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Structural Displacement Estimation Fusing Accelerometer and Vision Camera](http://www.i-asem.org/publication_conf/structures20/6.SM/2.SM582/SM2582_6597A.pdf). The 2020 Structures Congress (Structures20), Seoul, Korea, August 25-29, 2020
+3. Hoon Sohn\*, **Zhanxiong Ma**, Jaemook Choi. [Structural displacement estimation through multi-mode sensor fusion under GNSS-denied environments](https://icve.sjtu.edu.cn/wt_jb.html), The 8th International Conference on Vibration Engineering (ICVE 2021), Shanghai, China, July 23-26, 2021. (Presentation only)
 
-7. **Zhanxiong Ma**, Hoon Sohn\*. [FIR Filter Based Bridge Displacement Estimation Using Strain and Acceleration Measurements](https://koasas.kaist.ac.kr/handle/10203/270122). The 32th KKHTCNN Symposium on Civil Engineering, Daejeon, Korea, October 24-26, 2019
+5. Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Structural Displacement Estimation Fusing Accelerometer and Vision Camera](http://www.i-asem.org/publication_conf/structures20/6.SM/2.SM582/SM2582_6597A.pdf). The 2020 Structures Congress (Structures20), Seoul, Korea, August 25-29, 2020 (Presentation only)
+
+7. **Zhanxiong Ma**, Hoon Sohn\*. [FIR Filter Based Bridge Displacement Estimation Using Strain and Acceleration Measurements](https://koasas.kaist.ac.kr/handle/10203/270122). The 32th KKHTCNN Symposium on Civil Engineering, Daejeon, Korea, October 24-26, 2019 (Presentation only)
 
 9. **Zhanxiong Ma**, Hoon Sohn\*. [Structural Displacement Estimation by FIR Filter Based Fusion of Strain and Acceleration Measurements](https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE19/All-ISOPE19/ISOPE-I-19-637/21666). The 29th International Ocean and Polar Engineering Conference (ISOPE 2019), Honolulu, USA, June 16-21, 2019
 
