@@ -5,6 +5,8 @@ author_profile: true
 ---
 ## Journal Papers
 
+1.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, 2022, Under review.
+
 1.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Noncontact Cable Force Estimation using Visual-inertia System, 2021, Under review.
 
 2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12767), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1)*, 2021, Online published.
