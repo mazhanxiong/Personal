@@ -7,13 +7,13 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements, 2022, In preparation. 
 
-2. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022,In preparation.
+2. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022, In preparation.
 
 3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, 2022, Under review.
 
 1.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System, 2022, Under review.
 
-1.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](), Under the 2nd round of review (minor revision), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil), 2022, Under review.
+1.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](), Under the 2nd round of review (minor revision), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil)*, 2022, Under review.
 
 2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12767), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1, 1/137 in Engineering, Civil)*, 2021, Online published.
 
