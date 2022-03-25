@@ -13,7 +13,7 @@ author_profile: true
 
 1.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System, 2022, Under review.
 
-1.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](), Under the 2nd round of review (minor revision), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil)*, 2022, Under review.
+1.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](), Under the 2nd round of review (minor revision), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil)*, 2022.
 
 2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12767), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1, 1/137 in Engineering, Civil)*, 2021, Online published.
 
