@@ -5,13 +5,19 @@ author_profile: true
 ---
 ## Journal Papers
 
-1.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, 2022, Under review.
+1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements, 2022, In preparation. 
 
-1.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Noncontact Cable Force Estimation using Visual-inertia System, 2021, Under review.
+2. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022,In preparation.
 
-2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12767), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1)*, 2021, Online published.
+3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, 2022, Under review.
 
-3.	**Zhanxiong Ma**, Junyeon Chung, Peipei Liu, Hoon Sohn\*. [Bridge Displacement Estimation by Fusing Accelerometer and Strain Gauge Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.2733). *Structural Control and Health Monitoring (IF: 4.819, JCR Q1)*, 2021, 28(6): e2733.
+1.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System, 2022, Under review.
+
+1.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](), Under the 2nd round of review (minor revision), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil), 2022, Under review.
+
+2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12767), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1, 1/137 in Engineering, Civil)*, 2021, Online published.
+
+3.	**Zhanxiong Ma**, Junyeon Chung, Peipei Liu, Hoon Sohn\*. [Bridge Displacement Estimation by Fusing Accelerometer and Strain Gauge Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.2733). *Structural Control and Health Monitoring (IF: 4.819, JCR Q1, 17/137 in Engineering, Civil)*, 2021, 28(6): e2733.
 
 4.	Yingfeng Dong\*, **Zhanxiong Ma**, Shun Chen, Qiang Zhao. [Identification of Soil Liquefaction Using Surface and Borehole Strong Ground Motion](https://www.cnki.com.cn/Article/CJFDTotal-JZJB2016S1051.htm). *Journal of Building Structure*. 2016, Vol 37(S1): 362-365. (In Chinese, EI)
 
@@ -41,9 +47,11 @@ author_profile: true
 
 ## Patents
 
+3. Hoon Sohn, Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, “Method of Estimating Displacement of Structure based on Fusing Asynchronous Acceleration and Vision Measurements Using Natural Target and System for the Same", PCT Patent(Application # PCT/KR2022/003490), March 11th, 2021
+
 1. Hoon Sohn, **Zhanxiong Ma**, “A method of estimating displacement of a bridge and an electronic device to estimate displacement of a bridge”, PCT Patent, (Application # PCT/KR2021/006978), June 3rd 2021.
 
-3. Hoon Sohn, Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, “Static/dynamic displacement estimation by fusing accelerometer and vision camera with natural targets”, KR Patent, (Application # 10-2021-0047367), April 12th, 2021
+3. Hoon Sohn, Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, “Method of Estimating Displacement of Structure based on Fusing Asynchronous Acceleration and Vision Measurements Using Natural Target and System for the Same”, KR Patent, (Application # 10-2021-0047367), April 12th, 2021
 
 4. Hoon Sohn, **Zhanxiong Ma**, “A method of estimating displacement of a bridge and an electronic device to estimate displacement of a bridge”, KR Patent, (Application # 10-2020-0072048), June 15th, 2020.
 
