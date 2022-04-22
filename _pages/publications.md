@@ -9,13 +9,13 @@ author_profile: true
 
 2. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022, In preparation.
 
-3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, 2022, Under review.
+4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System, *Submitted to Measurement ( IF: 3.927, JCR Q1, 12/64 in Instruments & Instrumentation)*, 2022.
 
-1.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System, 2022, Under review.
+3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, Under the 2nd round of review (major revision), *Mechanical System and Signal Processing (IF: 6.823, JCR Q1, 7/133 in Engineering, Mechanical)*, 2022.
 
-1.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](), Under the 2nd round of review (minor revision), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil)*, 2022.
+1.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter, Under the 2nd round of review (minor revision), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil)*, 2022.
 
-2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12767), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1, 1/137 in Engineering, Civil)*, 2021, Online published.
+2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12767), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1, 1/137 in Engineering, Civil)*, 2022, 37(6): 688-703.
 
 3.	**Zhanxiong Ma**, Junyeon Chung, Peipei Liu, Hoon Sohn\*. [Bridge Displacement Estimation by Fusing Accelerometer and Strain Gauge Measurements](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.2733). *Structural Control and Health Monitoring (IF: 4.819, JCR Q1, 17/137 in Engineering, Civil)*, 2021, 28(6): e2733.
 
