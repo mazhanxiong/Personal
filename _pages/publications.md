@@ -14,16 +14,16 @@ author_profile: true
 
 4.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, Under the 2nd round of review (major revision), *Mechanical System and Signal Processing (IF: 6.823, JCR Q1, 7/133 in Engineering, Mechanical)*, 2022.
 
-5.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](https://github.com/mazhanxiong/mazhanxiong.github.io/blob/master/_publications/AiC_104338.pdf), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil)*, 2022. DOI: https://doi.org/10.1016/j.autcon.2022.104338.
+5.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](https://mazhanxiong.github.io/files/AiC_104338.pdf), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil)*, 2022. DOI: https://doi.org/10.1016/j.autcon.2022.104338.
 
-2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://github.com/mazhanxiong/mazhanxiong.github.io/blob/master/_publications/mice_12767.pdf), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1, 1/137 in Engineering, Civil)*, 2022, 37(6): 688-703. DOI: https://doi.org/10.1111/mice.12767.
+2.  **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Real-time Estimation of Structural Displacement Estimation by Fusing Asynchronous Acceleration and Computer Vision Measurements](https://mazhanxiong.github.io/files/mice_12767.pdf), *Computer-aided Civil and Infrastructure Engineering (IF: 11.775, JCR Q1, 1/137 in Engineering, Civil)*, 2022, 37(6): 688-703. DOI: https://doi.org/10.1111/mice.12767.
 
-3.	**Zhanxiong Ma**, Junyeon Chung, Peipei Liu, Hoon Sohn\*. [Bridge Displacement Estimation by Fusing Accelerometer and Strain Gauge Measurements](https://github.com/mazhanxiong/mazhanxiong.github.io/blob/master/_publications/stc_2733.pdf). *Structural Control and Health Monitoring (IF: 4.819, JCR Q1, 17/137 in Engineering, Civil)*, 2021, 28(6): e2733. DOI: https://doi.org/10.1002/stc.2733.
+3.	**Zhanxiong Ma**, Junyeon Chung, Peipei Liu, Hoon Sohn\*. [Bridge Displacement Estimation by Fusing Accelerometer and Strain Gauge Measurements](https://mazhanxiong.github.io/files/stc_2733.pdf). *Structural Control and Health Monitoring (IF: 4.819, JCR Q1, 17/137 in Engineering, Civil)*, 2021, 28(6): e2733. DOI: https://doi.org/10.1002/stc.2733.
 
-4.	Yingfeng Dong\*, **Zhanxiong Ma**, Shun Chen, Qiang Zhao. [Identification of Soil Liquefaction Using Surface and Borehole Strong Ground Motion](https://mazhanxiong.github.io/_publications/JBS_14006.pdf). *Journal of Building Structure*. 2016, Vol 37(S1): 362-365. (In Chinese, EI). DOI: https://doi.org/10.14006/j.jzjgxb.2016.S1.051.
+4.	Yingfeng Dong\*, **Zhanxiong Ma**, Shun Chen, Qiang Zhao. [Identification of Soil Liquefaction Using Surface and Borehole Strong Ground Motion](https://mazhanxiong.github.io/files/JBS_14006.pdf). *Journal of Building Structure*. 2016, Vol 37(S1): 362-365. (In Chinese, EI). DOI: https://doi.org/10.14006/j.jzjgxb.2016.S1.051.
 
 
-5.	Yingfeng Dong\*, Qiang Zhao, **Zhanxiong Ma**, Yunhao Li. [Seismic Performance Evaluation on Steel Frame Thermal Power Plants Main Building](https://github.com/mazhanxiong/mazhanxiong.github.io/blob/master/_publications/JBS_051.pdf). *Journal of Building Structure*. 2016, Vol 37(S1): 165-169. (In Chinese, EI). DOI: https://doi.org/10.14006/j.jzjgxb.2016.S1.024.
+5.	Yingfeng Dong\*, Qiang Zhao, **Zhanxiong Ma**, Yunhao Li. [Seismic Performance Evaluation on Steel Frame Thermal Power Plants Main Building](https://mazhanxiong.github.io/files/JBS_051.pdf). *Journal of Building Structure*. 2016, Vol 37(S1): 165-169. (In Chinese, EI). DOI: https://doi.org/10.14006/j.jzjgxb.2016.S1.024.
 
 ## Conference Proceedings & Presentations
 
