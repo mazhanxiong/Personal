@@ -20,7 +20,8 @@ author_profile: true
 
 3.	**Zhanxiong Ma**, Junyeon Chung, Peipei Liu, Hoon Sohn\*. [Bridge Displacement Estimation by Fusing Accelerometer and Strain Gauge Measurements](https://github.com/mazhanxiong/mazhanxiong.github.io/blob/master/_publications/stc_2733.pdf). *Structural Control and Health Monitoring (IF: 4.819, JCR Q1, 17/137 in Engineering, Civil)*, 2021, 28(6): e2733. DOI: https://doi.org/10.1002/stc.2733.
 
-4.	Yingfeng Dong\*, **Zhanxiong Ma**, Shun Chen, Qiang Zhao. [Identification of Soil Liquefaction Using Surface and Borehole Strong Ground Motion](https://github.com/mazhanxiong/mazhanxiong.github.io/blob/master/_publications/JBS_14006.pdf). *Journal of Building Structure*. 2016, Vol 37(S1): 362-365. (In Chinese, EI). DOI: https://doi.org/10.14006/j.jzjgxb.2016.S1.051.
+4.	Yingfeng Dong\*, **Zhanxiong Ma**, Shun Chen, Qiang Zhao. [Identification of Soil Liquefaction Using Surface and Borehole Strong Ground Motion](<a href="https://github.com/mazhanxiong/mazhanxiong.github.io/blob/master/_publications/JBS_14006.pdf" target="_blank">PDF.</a>). *Journal of Building Structure*. 2016, Vol 37(S1): 362-365. (In Chinese, EI). DOI: https://doi.org/10.14006/j.jzjgxb.2016.S1.051.
+
 
 5.	Yingfeng Dong\*, Qiang Zhao, **Zhanxiong Ma**, Yunhao Li. [Seismic Performance Evaluation on Steel Frame Thermal Power Plants Main Building](https://github.com/mazhanxiong/mazhanxiong.github.io/blob/master/_publications/JBS_051.pdf). *Journal of Building Structure*. 2016, Vol 37(S1): 165-169. (In Chinese, EI). DOI: https://doi.org/10.14006/j.jzjgxb.2016.S1.024.
 
