@@ -31,8 +31,7 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension using accelerometer and strain gauge measurements, *The 10th European Workshop on Structural Health Monitoring (EWSHM 2022)*, Palermo, Italy, July 04-07, 2022.(Presentation only)
 
-2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation through the fusion of FMCW millimeter wave radar and accelerometer, *The 8th World Conference on Structural Control and Monitoring (8WCSCM)*, Florida, USA, June 5-8, 2022.
-
+2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation through the fusion of FMCW millimeter wave radar and accelerometer, *The 8th World Conference on Structural Control and Monitoring (8WCSCM)*, Florida, USA, June 5-8, 2022.[[Program]](https://mazhanxiong.github.io/files/8WCSCM_Program.pdf) [[Paper]]()[[Video]]()
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Displacement and mooring cable tension estimation for submerged floating tunnel using strain gauge and accelerometer, *The 2022 Spring Conference of The Korean Society for Nondestructive Testing (KNST 2022)*, Gyeongju, South Korea, May 25-27, 2022.[[Program]](https://mazhanxiong.github.io/files/KSNT_program.pdf) [[Paper]](https://mazhanxiong.github.io/files/KSNT_Draft.pdf)
 
 3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Millimeter wave radar and accelerometer based strucural displacement estimation, *The 2021 Technique Conference of Korean Institute of Bridge and Structural Engineers (KIBSE 2021)*, Online, November 26, 2021.[[Program]](https://mazhanxiong.github.io/files/2021%20KIBSE_Program1.pdf) [[Paper]](https://mazhanxiong.github.io/files/2021%20KIBSE_Paper.pdf)
@@ -59,7 +58,7 @@ author_profile: true
 
 3. Hoon Sohn, Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, “Method of Estimating Displacement of Structure based on Fusing Asynchronous Acceleration and Vision Measurements Using Natural Target and System for the Same”, KR Patent, (Application # 10-2021-0047367), April 12th, 2021
 
-4. Hoon Sohn, **Zhanxiong Ma**, “A method of estimating displacement of a bridge and an electronic device to estimate displacement of a bridge”, KR Patent, (Application # 10-2020-0072048; Registration # 10-2387166-0000), June 15th, 2020.
+4. Hoon Sohn, **Zhanxiong Ma**, “A method of estimating displacement of a bridge and an electronic device to estimate displacement of a bridge”, KR Patent, (Application # 10-2020-0072048; Registration # 10-2387166-0000), June 15th, 2020. [[Certificate]](https://mazhanxiong.github.io/files/KR_P_0072048.pdf)
 
 5. Yingfeng Dong, Kaiqi He, Song Lin, Song Xu, **Zhanxiong Ma**, "Wave selection method for bi-directional earthquake motions," CN Patent (Application # 201710326362.3), May 10th, 2017.
 
