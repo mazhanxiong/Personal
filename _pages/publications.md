@@ -71,5 +71,9 @@ author_profile: true
 
 5. Yingfeng Dong, Kaiqi He, Song Lin, Song Xu, **Zhanxiong Ma**, "Wave selection method for bi-directional earthquake motions," CN Patent (Application #: 201710326362.3), May, 2017.
 
+## Technology tranfer
+
+1. Hoon Sohn, **Zhanxiong Ma**, Jaemook Choi, “Method of Estimating Displacement of Structure and System for the Same", Transfer to SQ Engineering (Transfer fee: 110,000,000 KRW), June, 2022
+
 
 
