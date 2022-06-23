@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Journal Papers
 
-1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Peipei Liu, Hoon Sohn*. Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras, 2022, In preparation.
+1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn*. Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras, 2022, In preparation.
 
 1. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022, In preparation.
 
