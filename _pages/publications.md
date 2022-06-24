@@ -13,7 +13,7 @@ author_profile: true
 
 3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, Under the 2nd round of review (major revision), *Mechanical System and Signal Processing (IF: 6.823, JCR Q1, 7/133 in Engineering, Mechanical)*, 2022.
 
-4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System](https://mazhanxiong.github.io/files/Measurement_2022.pdf), *Measurement ( IF: 3.927, JCR Q1, 12/64 in Instruments & Instrumentation)*, 2022.
+4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System](https://mazhanxiong.github.io/files/Measurement_2022.pdf), *Measurement (IF: 3.927, JCR Q1, 12/64 in Instruments & Instrumentation)*, 2022, 200:111532, DOI: 10.1016/j.measurement.2022.111532.
 
 5.  **Zhanxiong Ma**, Jaemook Choi, Peipie Liu, Hoon Sohn\*. [Structural displacement estimation by fusing vision camera and accelerometer using hybrid computer vision algorithm and adaptive multi-rate Kalman filter](https://mazhanxiong.github.io/files/AiC_104338.pdf), *Automation in Construction (IF: 7.700, JCR Q1, 2/137 in Engineering, Civil)*, 2022,140: 104338, DOI: 10.1016/j.autcon.2022.104338.
 
