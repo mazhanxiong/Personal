@@ -43,7 +43,7 @@ author_profile: true
 
 4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Displacement and mooring cable tension estimation for submerged floating tunnel using strain gauge and accelerometer](https://mazhanxiong.github.io/files/KSNT_Draft.pdf), *The 2022 Spring Conference of The Korean Society for Nondestructive Testing (KNST 2022)*, Gyeongju, South Korea, May 25-27, 2022.
 
-3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Millimeter wave radar and accelerometer based strucural displacement estimation, *The 2021 Technique Conference of Korean Institute of Bridge and Structural Engineers (KIBSE 2021)*, Online, November 26, 2021.[[Program]](https://mazhanxiong.github.io/files/2021%20KIBSE_Program1.pdf) [[Paper]](https://mazhanxiong.github.io/files/2021%20KIBSE_Paper.pdf)
+3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Millimeter wave radar and accelerometer based strucural displacement estimation](https://mazhanxiong.github.io/files/2021%20KIBSE_Paper.pdf), *The 2021 Technique Conference of Korean Institute of Bridge and Structural Engineers (KIBSE 2021)*, Online, November 26, 2021.
 
 3. Hoon Sohn\*, **Zhanxiong Ma**, Jaemook Choi. [Structural displacement estimation through multi-mode sensor fusion under GNSS-denied environments](https://mazhanxiong.github.io/files/2021-ICVE%20Abstract.pdf), *The 8th International Conference on Vibration Engineering (ICVE 2021)*, Shanghai, China, July 23-26, 2021. (Keynote Presentation)
 
