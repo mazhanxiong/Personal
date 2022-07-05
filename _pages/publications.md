@@ -39,7 +39,7 @@ author_profile: true
 
 4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Simultaneous Estimation of Submerged Floating Tunnel Displacement and Mooring Cable Tension Using Accelerometer and Strain Gauge Measurements](https://mazhanxiong.github.io/files/EWSHM2022_630_v1.pdf), *The 10th European Workshop on Structural Health Monitoring (EWSHM 2022)*, Palermo, Italy, July 04-07, 2022. (Presentation only)
 
-2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation through the fusion of FMCW millimeter wave radar and accelerometer](), *The 8th World Conference on Structural Control and Monitoring (8WCSCM)*, Florida, USA, June 5-8, 2022.
+2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation through the fusion of FMCW millimeter wave radar and accelerometer](https://mazhanxiong.github.io/files/8WCSCM_2.pdf), *The 8th World Conference on Structural Control and Monitoring (8WCSCM)*, Florida, USA, June 5-8, 2022.
 
 4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Displacement and mooring cable tension estimation for submerged floating tunnel using strain gauge and accelerometer](https://mazhanxiong.github.io/files/KSNT_Draft.pdf), *The 2022 Spring Conference of The Korean Society for Nondestructive Testing (KNST 2022)*, Gyeongju, South Korea, May 25-27, 2022.
 
