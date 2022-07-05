@@ -23,7 +23,6 @@ author_profile: true
 * Source: National Research Foundation (NSF) of Korea
 * Funding: 150,000 USD
 * Duration: 06/01/2019~05/31/2022
-[![Structural displacement estimation by fusing vision camera and accelerometer](https://res.cloudinary.com/marcomontalbano/image/upload/v1655963801/video_to_markdown/images/youtube--QI1OIVAWda4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=QI1OIVAWda4 "Structural displacement estimation by fusing vision camera and accelerometer")
 
 **2. Development and Commercialization of 6-DOF Dynamic Response Measurement System for Civil Infrastructure Monitoring** 
 * Source: Ministry of Land, Infrastructure and Transport of Korea
