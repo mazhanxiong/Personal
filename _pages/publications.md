@@ -73,7 +73,7 @@ author_profile: true
 
 3. Hoon Sohn, Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Method of Estimating Displacement of Structure based on Fusing Asynchronous Acceleration and Vision Measurements Using Natural Target and System for the Same, KR Patent (Application #: 10-2021-0047367), April, 2021
 
-4. Hoon Sohn, **Zhanxiong Ma**, [A method of estimating displacement of a bridge and an electronic device to estimate displacement of a bridge](https://mazhanxiong.github.io/files/KR_P_0072048.pdf), KR Patent (Application #: 10-2020-0072048; Registration #: 10-2387166-0000), June, 2020. [[Certificate]](https://mazhanxiong.github.io/files/KR_P_0072048.pdf)
+4. Hoon Sohn, **Zhanxiong Ma**, [A method of estimating displacement of a bridge and an electronic device to estimate displacement of a bridge](https://mazhanxiong.github.io/files/KR_P_0072048.pdf), KR Patent (Application #: 10-2020-0072048; Registration #: 10-2387166-0000), June, 2020.
 
 5. Yingfeng Dong, Kaiqi He, Song Lin, Song Xu, **Zhanxiong Ma**, Wave selection method for bi-directional earthquake motions, CN Patent (Application #: 201710326362.3), May, 2017.
 
