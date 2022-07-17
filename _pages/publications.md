@@ -7,13 +7,13 @@ author_profile: true
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn*. Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras, 2022, In preparation.
 
-2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements,2022, In preparation.
+2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements,2022, Drafted.
 
-1. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022, In preparation.
+1. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022, Drafted.
 
 2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension estimation based on strain and acceleration measurements, *Submitted to Structural Control and Health Monitoring (IF: 6.058, JCR Q1, 15/138 in Engineering, Civil)*, 2022. 
 
-3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. Structural displacement estimation using accelerometer and FMCW millimeter wave radar, Under the 2nd round of review (major revision), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2022.
+3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. [Structural displacement estimation using accelerometer and FMCW millimeter wave radar](https://mazhanxiong.github.io/files/MSSP_2022.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023, 182:109582, DOI: 10.1016/j.ymssp.2022.109582.
 
 4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System](https://mazhanxiong.github.io/files/MEAS_2022.pdf), *Measurement (IF: 5.131, JCR Q1, 11/64 in Instruments & Instrumentation)*, 2022, 199:111532, DOI: 10.1016/j.measurement.2022.111532.
 
@@ -35,7 +35,7 @@ author_profile: true
 
 3. Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. Continuous structural displacement estimation combining accelerometer, vision and IR cameras, The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
 
-3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements, *The 11th International Conference on Bridge Maintenance, Safety and Management (IABMAS 2022)*, Barcelona, Spain, July 11-15, 2022.
+3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements](), *The 11th International Conference on Bridge Maintenance, Safety and Management (IABMAS 2022)*, Barcelona, Spain, July 11-15, 2022.
 
 4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Simultaneous Estimation of Submerged Floating Tunnel Displacement and Mooring Cable Tension Using Accelerometer and Strain Gauge Measurements](https://mazhanxiong.github.io/files/EWSHM2022_630_v1.pdf), *The 10th European Workshop on Structural Health Monitoring (EWSHM 2022)*, Palermo, Italy, July 04-07, 2022. (Presentation only)
 
@@ -79,7 +79,7 @@ author_profile: true
 
 ## Technology Tranfer
 
-1. Hoon Sohn, **Zhanxiong Ma**, Jaemook Choi, Method of Estimating Displacement of Structure and System for the Same, Transfer to SQ Engineering (Transfer fee: 110,000,000 KRW), June, 2022
+1. Hoon Sohn, **Zhanxiong Ma**, Jaemook Choi, Method of Estimating Displacement of Structure and System for the Same, Transfer to SQ Engineering (Transfer fee: 110,000,000 KRW), July, 2022
 
 
 
