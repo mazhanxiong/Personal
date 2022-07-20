@@ -13,7 +13,7 @@ author_profile: true
 
 2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension estimation based on strain and acceleration measurements, *Submitted to Structural Control and Health Monitoring (IF: 6.058, JCR Q1, 15/138 in Engineering, Civil)*, 2022. 
 
-3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. [Structural displacement estimation using accelerometer and FMCW millimeter wave radar](https://mazhanxiong.github.io/files/MSSP_2022.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023, 182:109582, DOI: 10.1016/j.ymssp.2022.109582.
+3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. [Structural displacement estimation using accelerometer and FMCW millimeter wave radar](https://mazhanxiong.github.io/files/YMSSP_109582.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023, 182:109582, DOI: 10.1016/j.ymssp.2022.109582.
 
 4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Noncontact Cable Force Estimation using An Integrated Visual and Inertia Measurement System](https://mazhanxiong.github.io/files/MEAS_2022.pdf), *Measurement (IF: 5.131, JCR Q1, 11/64 in Instruments & Instrumentation)*, 2022, 199:111532, DOI: 10.1016/j.measurement.2022.111532.
 
