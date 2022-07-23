@@ -35,7 +35,7 @@ author_profile: true
 
 3. Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. Continuous structural displacement estimation combining accelerometer, vision and IR cameras, The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
 
-3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements](), *The 11th International Conference on Bridge Maintenance, Safety and Management (IABMAS 2022)*, Barcelona, Spain, July 11-15, 2022.
+3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements](https://mazhanxiong.github.io/files/IABMAS_2022.pdf), *The 11th International Conference on Bridge Maintenance, Safety and Management (IABMAS 2022)*, Barcelona, Spain, July 11-15, 2022.
 
 4. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Simultaneous Estimation of Submerged Floating Tunnel Displacement and Mooring Cable Tension Using Accelerometer and Strain Gauge Measurements](https://mazhanxiong.github.io/files/EWSHM2022_630_v1.pdf), *The 10th European Workshop on Structural Health Monitoring (EWSHM 2022)*, Palermo, Italy, July 04-07, 2022. (Presentation only)
 
