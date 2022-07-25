@@ -7,11 +7,11 @@ author_profile: true
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn*. Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras, 2022, In preparation.
 
-2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements,2022, Drafted.
-
 1. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022, Drafted.
 
-2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension estimation based on strain and acceleration measurements, *Submitted to Structural Control and Health Monitoring (IF: 6.058, JCR Q1, 15/138 in Engineering, Civil)*, 2022. 
+2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, 2022, Under review.
+
+2. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension estimation based on strain and acceleration measurements, 2022, Under review. 
 
 3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. [Structural displacement estimation using accelerometer and FMCW millimeter wave radar](https://mazhanxiong.github.io/files/YMSSP_109582.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023, 182:109582, DOI: 10.1016/j.ymssp.2022.109582.
 
