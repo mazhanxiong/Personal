@@ -31,7 +31,7 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling vision measurements", SPIE Smart Structures + Nondestructive Evaluation conference (SPIE 2023), California, USA, March 12-16, 2023.
 
-1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation using a low-cost sensing system combining millimeter-wave radar and accelerometer](https://mazhanxiong.github.io/files/Structures22_Choi.pdf), The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
+1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation using a low-cost sensing system combining millimeter-wave radar and accelerometer](https://mazhanxiong.github.io/files/Structures22_MA.pdf), The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
 
 3. Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Continuous structural displacement estimation combining accelerometer, vision and IR cameras](https://mazhanxiong.github.io/files/Structures22_Choi.pdf), The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
 
