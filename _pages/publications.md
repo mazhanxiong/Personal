@@ -31,9 +31,9 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling vision measurements", SPIE Smart Structures + Nondestructive Evaluation conference (SPIE 2023), California, USA, March 12-16, 2023.
 
-1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using a low-cost sensing system combining millimeter-wave radar and accelerometer, The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
+1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation using a low-cost sensing system combining millimeter-wave radar and accelerometer](https://mazhanxiong.github.io/files/Structures22_Choi.pdf), The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
 
-3. Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. Continuous structural displacement estimation combining accelerometer, vision and IR cameras, The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
+3. Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Continuous structural displacement estimation combining accelerometer, vision and IR cameras](https://mazhanxiong.github.io/files/Structures22_Choi.pdf), The 2022 International Conference on Advances in Structural Monitoring and Maintenance (ASMM22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
 
 3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Simultaneous displacement and cable force estimation for submerged floating tunnel based on strain and acceleration measurements](https://mazhanxiong.github.io/files/IABMAS_2022.pdf), *The 11th International Conference on Bridge Maintenance, Safety and Management (IABMAS 2022)*, Barcelona, Spain, July 11-15, 2022.
 
