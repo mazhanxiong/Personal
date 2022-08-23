@@ -7,7 +7,7 @@ author_profile: true
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn*. Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras, 2022, In preparation.
 
-1. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Speed-corrected height prediction during directed energy deposition using laser line scanning and machine learning algorithm, 2022, Drafted.
+1. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Real-time Layer Height Estimation during Multi-Layer Directed Energy Deposition Using Laser Line Scanner, Vision Camera, and Domain Adaptive Neural Networks, 2022, Under review.
 
 2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, 2022, Under review.
 
