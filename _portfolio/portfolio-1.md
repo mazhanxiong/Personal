@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Displacement Estimation Using Vision Camera and Accelerometer"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Vision_Acc.png'>"
 collection: portfolio
 ---
 
