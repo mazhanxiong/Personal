@@ -31,7 +31,11 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn, Continuous bridge displacement estimation using millimeter-wave radar, accelerometer, and strain gauge, The 10th International Conference on Experimental Vibration Analysis for Civil Engineering Structures (EVACES 2023), Politecnico di Milano, Italy, August 30 - September 1, 2023.
 
-1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling vision measurements", SPIE Smart Structures + Nondestructive Evaluation conference (SPIE 2023), California, USA, March 12-16, 2023.
+1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling vision measurements, SPIE Smart Structures + Nondestructive Evaluation conference (SPIE 2023), California, USA, March 12-16, 2023.
+
+1. Peipei Liu, **Zhanxiong Ma**, Jinho Jang, Hoon Sohn\*. Nonlinear ultrasonic analysis inspired by phase-based motion magnification, SPIE Smart Structures + Nondestructive Evaluation conference (SPIE 2023), California, USA, March 12-16, 2023.
+
+1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Three-dimensional structural displacement estimation using a low-cost sensing system combining a consumer-grade camera and an accelerometer, The 41th International Modal Analysis Conference (IMAC XLI), Austin, Texas， USA, February 13–16, 2023.
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation using a low-cost sensing system combining millimeter-wave radar and accelerometer](https://mazhanxiong.github.io/files/Structures22_MA.pdf), The 2022 Structures Congress (Structures22), Seoul, South Korea, August 16-19, 2022. (Presentation only)
 
