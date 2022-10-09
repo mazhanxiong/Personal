@@ -3,6 +3,9 @@ main:
   - title: "About me"
     url: /cv/
     
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Research"
     url: /research/
     
@@ -13,8 +16,8 @@ main:
 #  - title: "Field activities"
 #    url: /fields/  
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
