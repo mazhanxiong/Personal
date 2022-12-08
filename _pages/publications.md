@@ -14,7 +14,7 @@ author_profile: true
 
 2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, 2022, Under review.
 
-2. **Zhanxiong Ma**, Jaemook Choi, Jinho Jang, Ohjun Kwon, Hoon Sohn\*. Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension estimation based on strain and acceleration measurements, 2022, Under review. 
+2. **Zhanxiong Ma**, Jaemook Choi, Jinho Jang, Ohjun Kwon, Hoon Sohn\*. Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension through FIR filter based strain and acceleration fusion, 2022, Under the 2nd round of review (minor revision). 
 
 3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. [Structural displacement estimation using accelerometer and FMCW millimeter wave radar](https://mazhanxiong.github.io/files/YMSSP_109582.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023, 182:109582, DOI: 10.1016/j.ymssp.2022.109582.
 
