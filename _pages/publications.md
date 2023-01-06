@@ -9,11 +9,11 @@ author_profile: true
 
 1. Liu Yang, Jack C.P. Cheng, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Hoon Sohn*. Real-time Layer Height Estimation during Multi-Layer Directed Energy Deposition Using Laser Line Scanner, Vision Camera, and Domain Adaptive Neural Networks, 2022, Under review.
 
-1. Jinho Jang, Peipei Liu, Ohjun Kwon, Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn*. Reference-free fatigue crack detection using deep long short-term memory network (DLSTM) and nonlinear ultrasonic modulation, 2022,*NDT & E international (IF: 4.683, JCR Q1, 3/32 in Materials Science, Characterization & Testing)*,2022, Under review.
+1. Jinho Jang, Peipei Liu, Ohjun Kwon, Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn*. Reference-free fatigue crack detection using deep long short-term memory network (DLSTM) and nonlinear ultrasonic modulation, 2022, *NDT & E international (IF: 4.683, JCR Q1, 3/32 in Materials Science, Characterization & Testing)*, 2022, Under review.
 
 2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2022, Under review.
 
-2. **Zhanxiong Ma**, Jaemook Choi, Jinho Jang, Ohjun Kwon, Hoon Sohn\*. Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension through FIR filter based strain and acceleration fusion, *Structural Control and Health Monitoring (IF: 6.058, JCR Q1, 15/138 in Engineering, Civil)*, 2022, Under the 2nd round of review (minor revision). 
+2. **Zhanxiong Ma**, Jaemook Choi, Jinho Jang, Ohjun Kwon, Hoon Sohn\*. [Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension through FIR filter based strain and acceleration fusion](), *Structural Control and Health Monitoring (IF: 6.058, JCR Q1, 15/138 in Engineering, Civil)*, 2022. (Accepted) 
 
 3.  **Zhanxiong Ma**, Jaemook Choi, Liu Yang, Hoon Sohn\*. [Structural displacement estimation using accelerometer and FMCW millimeter wave radar](https://mazhanxiong.github.io/files/YMSSP_109582.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023, 182:109582, DOI: 10.1016/j.ymssp.2022.109582.
 
