@@ -9,6 +9,8 @@ author_profile: true
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn*. Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures, 2023, In preparation.
 
+1. Peipei Liu, **Zhanxiong Ma**, Jinho Jang, Hoon Sohn*. Motion magnification-based nonlinear ultrasonic signal enhancement and its application to remaining fatigue life estimation of a steel padeye, 2023, Under review.
+
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Three-dimensional structural displacement estimation by fusing monocular camera and accelerometer using adaptive multi-rate Kalman filter, 2023, Under review.
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Continuous bridge displacement estimation using millimeter-wave radar, strain gauge and accelerometer, 2023, Under review.
