@@ -7,7 +7,7 @@ author_profile: true
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras, 2023, In preparation.
 
-1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures, 2023, In preparation.
+1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures, 2023, Under review.
 
 1. Peipei Liu, **Zhanxiong Ma**, Jinho Jang, Hoon Sohn\*. Motion magnification-based nonlinear ultrasonic signal enhancement and its application to remaining fatigue life estimation of a steel padeye, 2023, Under review.
 
@@ -15,11 +15,11 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Continuous bridge displacement estimation using millimeter-wave radar, strain gauge and accelerometer, 2023, Under review.
 
-1. Jinho Jang, Peipei Liu, Ohjun Kwon, Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. Reference-free fatigue crack detection using deep long short-term memory network (DLSTM) and nonlinear ultrasonic modulation, 2022, NDT & E international (IF: 4.683, JCR Q1, 3/32 in Materials Science, Characterization & Testing), 2023, Under review.
-
 2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical), 2022, Under review.
 
-1. Liu Yang, Hoon Sohn\*, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Jack C.P. Cheng\*. [Real-time Layer Height Estimation during Multi-Layer Directed Energy Deposition Using Domain Adaptive Neural Networks](https://mazhanxiong.github.io/files/CII2023.pdf), *Computers in industry (IF: 11.245, JCR Q1, 5/112 in Computer Scienece, Interdisciplinary Applications)*, 2023 (Accepted)
+1. Jinho Jang, Peipei Liu, Ohjun Kwon, Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Reference-free fatigue crack detection using deep long short-term memory network (DLSTM) and nonlinear ultrasonic modulation](https://mazhanxiong.github.io/files/NDT2023.pdf), *NDT & E international (IF: 4.683, JCR Q1, 3/32 in Materials Science, Characterization & Testing)*, 2023, (Accepted)
+
+3. Liu Yang, Hoon Sohn\*, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Jack C.P. Cheng\*. [Real-time Layer Height Estimation during Multi-Layer Directed Energy Deposition Using Domain Adaptive Neural Networks](https://mazhanxiong.github.io/files/CII2023.pdf), *Computers in industry (IF: 11.245, JCR Q1, 5/112 in Computer Scienece, Interdisciplinary Applications)*, 2023 (Accepted)
 
 2. **Zhanxiong Ma**, Jaemook Choi, Jinho Jang, Ohjun Kwon, Hoon Sohn\*. [Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension through FIR filter based strain and acceleration fusion](https://mazhanxiong.github.io/files/SCHM2023.pdf), *Structural Control and Health Monitoring (IF: 6.058, JCR Q1, 15/138 in Engineering, Civil)*, 2023，DOI: 10.1155/2023/7803876. 
 
