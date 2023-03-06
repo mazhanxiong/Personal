@@ -17,9 +17,9 @@ author_profile: true
 
 2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical), 2022, Under review.
 
-1. Jinho Jang, Peipei Liu, Ohjun Kwon, Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Reference-free fatigue crack detection using deep long short-term memory network (DLSTM) and nonlinear ultrasonic modulation](https://mazhanxiong.github.io/files/NDT2023.pdf), *NDT & E international (IF: 4.683, JCR Q1, 3/32 in Materials Science, Characterization & Testing)*, 2023, DOI: 10.1016/j.ndteint.2023.102828
+1. Jinho Jang, Peipei Liu, Ohjun Kwon, Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Reference-free fatigue crack detection using deep long short-term memory network (DLSTM) and nonlinear ultrasonic modulation](https://mazhanxiong.github.io/files/NDT2023.pdf), *NDT & E international (IF: 4.683, JCR Q1, 3/32 in Materials Science, Characterization & Testing)*, 2023, DOI: 10.1016/j.ndteint.2023.102828.
 
-3. Liu Yang, Hoon Sohn\*, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Jack C.P. Cheng\*. [Real-time Layer Height Estimation during Multi-Layer Directed Energy Deposition Using Domain Adaptive Neural Networks](https://mazhanxiong.github.io/files/CII2023.pdf), *Computers in industry (IF: 11.245, JCR Q1, 5/112 in Computer Scienece, Interdisciplinary Applications)*, 2023 (Accepted)
+3. Liu Yang, Hoon Sohn\*, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, Jack C.P. Cheng\*. [Real-time Layer Height Estimation during Multi-Layer Directed Energy Deposition Using Domain Adaptive Neural Networks](https://mazhanxiong.github.io/files/CII2023.pdf), *Computers in industry (IF: 11.245, JCR Q1, 5/112 in Computer Scienece, Interdisciplinary Applications)*, 2023, DOI: 10.1016/j.compind.2023.103882.
 
 2. **Zhanxiong Ma**, Jaemook Choi, Jinho Jang, Ohjun Kwon, Hoon Sohn\*. [Simultaneous estimation of submerged floating tunnel displacement and mooring cable tension through FIR filter based strain and acceleration fusion](https://mazhanxiong.github.io/files/SCHM2023.pdf), *Structural Control and Health Monitoring (IF: 6.058, JCR Q1, 15/138 in Engineering, Civil)*, 2023，DOI: 10.1155/2023/7803876. 
 
