@@ -13,7 +13,7 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Three-dimensional structural displacement estimation by fusing monocular camera and accelerometer using adaptive multi-rate Kalman filter, 2023, Under review.
 
-1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Continuous bridge displacement estimation using millimeter-wave radar, strain gauge and accelerometer, 2023, Under review.
+1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Continuous bridge displacement estimation using millimeter-wave radar, strain gauge and accelerometer, Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical), 2023, Under review.
 
 2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical), 2022, Under review.
 
