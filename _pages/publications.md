@@ -17,6 +17,8 @@ author_profile: true
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures](https://mazhanxiong.github.io/files/MEAS_2023.pdf), *Measurement (IF: 5.131, JCR Q1, 11/64 in Instruments & Instrumentation)*, 2023, Under review. DOI: 10.2139/ssrn.4415749. 
 
+3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Continuous bridge displacement estimation using millimeter-wave radar, strain gauge and accelerometer](https://mazhanxiong.github.io/files/MSSP_2023.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023 (Accepted)
+
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Structural displacement sensing techniques for civil infrastructure: a review](https://mazhanxiong.github.io/files/JIIR2023.pdf), *Journal of Infrastructure Intelligence and Resilience*, 2023, 2(2): 100041, DOI: 10.1016/j.iintel.2023.100041.
 
 1. Jinho Jang, Peipei Liu, Ohjun Kwon, Jaemook Choi, **Zhanxiong Ma**, Hoon Sohn\*. [Reference-free fatigue crack detection using deep long short-term memory network (DLSTM) and nonlinear ultrasonic modulation](https://mazhanxiong.github.io/files/NDT2023.pdf), *NDT & E international (IF: 4.683, JCR Q1, 3/32 in Materials Science, Characterization & Testing)*, 2023, 137: 102828, DOI: 10.1016/j.ndteint.2023.102828.
