@@ -14,9 +14,9 @@ author_profile: true
 
 2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, revision submitted to *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2022, Under review.
 
-1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras](https://mazhanxiong.github.io/files/SENSORS2023.pdf), *Sensors (IF: 3.847, JCR Q1,15/64 in Instruments & Instrumentation)*, 2023, 23(11): xxxx, DOI: 10.3390/xxxxx.
+1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures](https://mazhanxiong.github.io/files/MEAS_2023.pdf), *Measurement (IF: 5.131, JCR Q1, 11/64 in Instruments & Instrumentation)*, 2023, 217：xxxx, 10.1016/j.measurement.2023.xxxxxx. (Pre-print: 10.2139/ssrn.4415749)
 
-1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures](https://mazhanxiong.github.io/files/MEAS_2023.pdf), *Measurement (IF: 5.131, JCR Q1, 11/64 in Instruments & Instrumentation)*, 2023, Under review. DOI: 10.2139/ssrn.4415749. 
+1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras](https://mazhanxiong.github.io/files/SENSORS2023.pdf), *Sensors (IF: 3.847, JCR Q1,15/64 in Instruments & Instrumentation)*, 2023, 23(11): 5241, DOI: 10.3390/s23115241.
 
 3. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Continuous bridge displacement estimation using millimeter-wave radar, strain gauge and accelerometer](https://mazhanxiong.github.io/files/MSSP2023.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023, 197: 110408, DOI: 10.1016/j.ymssp.2023.110408.
 
