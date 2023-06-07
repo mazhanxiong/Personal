@@ -8,11 +8,11 @@ author_profile: true
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. Three-dimensional structural displacement estimation by fusing monocular camera and accelerometer using adaptive multi-rate Kalman filter, revision submitted to *Engineering Structures (IF: 5.582, JCR Q1, 20/138 in Engineering, Civil)*, 2023, Under review.
 
-3. Ohjun Kwon, Hoon Sohn\*, Jinho Jang, Jaemook Choi, **Zhanxiong Ma**, Hyung Jin Lim. Baseline-free Absolute Strain Estimation for Cylindrical Structures, revision submitted to *Engineering Structures (IF: 5.582, JCR Q1, 20/138 in Engineering, Civil)*, 2023, Under review.
-
 1. Peipei Liu, **Zhanxiong Ma**, Jinho Jang, Hoon Sohn\*. Motion magnification-based nonlinear ultrasonic signal enhancement and its application to remaining fatigue life estimation of a steel padeye, revision submitted to *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2023, Under review.
 
 2. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, revision submitted to *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2022, Under review.
+
+3. Ohjun Kwon, Hoon Sohn\*, Jinho Jang, Jaemook Choi, **Zhanxiong Ma**, Hyung Jin Lim. [Baseline-free Absolute Strain Estimation for Cylindrical Structures](https://mazhanxiong.github.io/files/ES2023a.pdf), *Engineering Structures (IF: 5.582, JCR Q1, 20/138 in Engineering, Civil)*, 2023 (Accepted).
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures](https://mazhanxiong.github.io/files/MEAS_2023.pdf), *Measurement (IF: 5.131, JCR Q1, 11/64 in Instruments & Instrumentation)*, 2023, 217: 113158, 10.1016/j.measurement.2023.113158.
 
