@@ -14,7 +14,7 @@ author_profile: true
 
 3. Ohjun Kwon, Hoon Sohn\*, Jinho Jang, Jaemook Choi, **Zhanxiong Ma**, Hyung Jin Lim. [Baseline-free Absolute Strain Estimation for Cylindrical Structures](https://mazhanxiong.github.io/files/ES2023a.pdf), *Engineering Structures (IF: 5.582, JCR Q1, 20/138 in Engineering, Civil)*, 2023 (Accepted).
 
-1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures](https://mazhanxiong.github.io/files/MEAS_2023.pdf), *Measurement (IF: 5.131, JCR Q1, 11/64 in Instruments & Instrumentation)*, 2023, 217: 113158, 10.1016/j.measurement.2023.113158.
+1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Automated region of interest (ROI) selection for computer vision-based displacement estimation of civil structures](https://mazhanxiong.github.io/files/MEAS2023.pdf), *Measurement (IF: 5.131, JCR Q1, 11/64 in Instruments & Instrumentation)*, 2023, 218: 113158, 10.1016/j.measurement.2023.113158.
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [Continuous Structural Displacement Monitoring Using Accelerometer, Vision, and IR Cameras](https://mazhanxiong.github.io/files/SENSORS2023.pdf), *Sensors (IF: 3.847, JCR Q1,15/64 in Instruments & Instrumentation)*, 2023, 23(11): 5241, DOI: 10.3390/s23115241.
 
