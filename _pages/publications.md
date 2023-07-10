@@ -44,8 +44,6 @@ author_profile: true
 
 ## Conference Proceedings & Presentations
 
-1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn, Continuous bridge displacement estimation using millimeter-wave radar, accelerometer, and strain gauge, The 10th International Conference on Experimental Vibration Analysis for Civil Engineering Structures (EVACES 2023), Politecnico di Milano, Italy, August 30 - September 1, 2023.
-
 1. Liu Yang, Jack C.P. Cheng, Hoon Sohn\*, Zhanxiong Ma, Ikgeun Jeon, Peipei Liu, Real-time corner height estimation for multi-layer directed energy deposition using laser line scanner, vision camera, and artificial neural network, 2023 European Conference on Computing in Construction (EC³ 2023), Crete, Greece, July 10-12, 2023.
 
 1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling vision measurements](https://mazhanxiong.github.io/files/SPIE2023_DISP.pdf), SPIE Smart Structures + Nondestructive Evaluation conference (SPIE 2023), California, USA, March 12-16, 2023.
