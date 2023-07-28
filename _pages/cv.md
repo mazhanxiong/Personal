@@ -16,11 +16,11 @@ redirect_from:
 
 * **2014/09 ~ 2017/06: M.S. in Architecture and Civil Engineering**
   * School of Civil Engineering, Chongqing University (CQU), Chongqing, China
-  * Thesis: Wave-theory-based structural damage detection
+  * Thesis: [Wave-theory-based structural damage detection](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201801&filename=1017837569.nh&uniplatform=OVERSEA&v=2QfmS2D99v5aoOT_waGRxMftbo9-Brrs2klZIad8aGlwEGyo80ZkxWCr2Oiwpb6K) (In Chinese)
 
 * **2017/08 ~ 2022/08: Ph.D. in Civil Engineering**
   * Department of Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
-  * Thesis: Structural displacement estimation throught multi-mode senosr fusion at GNSS-denied environment.
+  * Thesis: [GNSS-free structural displacement estimation through heterogeneous sensor fusion](http://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=1007733&flag=dissertation).
   
 ## Awards and Honors
 
