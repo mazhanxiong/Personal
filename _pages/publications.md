@@ -6,7 +6,7 @@ author_profile: true
 ## Journal Papers
 
 
-1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements, revision submitted to *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2022, Under review.
+1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling displacement measurements](https://mazhanxiong.github.io/files/MSSP2024a.pdf),*Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2024. (Accepted)
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Three-dimensional structural displacement estimation by fusing monocular camera and accelerometer using adaptive multi-rate Kalman filter](https://mazhanxiong.github.io/files/ES2023b.pdf), *Engineering Structures (IF: 5.582, JCR Q1, 20/138 in Engineering, Civil)*, 2023, 292: 116535, DOI: 10.1016/j.engstruct.2023.116535.
 
