@@ -44,7 +44,11 @@ author_profile: true
 
 ## Conference Proceedings & Presentations
 
-1. Liu Yang, Jack C.P. Cheng, Hoon Sohn\*, Zhanxiong Ma, Ikgeun Jeon, Peipei Liu, [Real-time corner height estimation for multi-layer directed energy deposition using laser line scanner, vision camera, and artificial neural network](https://mazhanxiong.github.io/files/EC32023.pdf), 2023 European Conference on Computing in Construction (EC³ 2023), Crete, Greece, July 10-12, 2023.
+1. **Zhanxiong Ma**, Kyuwon Han, Jaemook Choi, Jigu Lee, Ohjun Kwon, Hoon Sohn\*, Jingxiao Liu, Doyun Hwang, Jatin Aggarwal, Haeyoung Noh, Enjian Cai, Yi Zhang, [Field deployment validation of a low-cost and high-precision displacement sensor combining millimeter-wave radar and accelerometer](https://mazhanxiong.github.io/files/EMI2024.pdf), Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (EMI/PMC2024), Chicago, IL, USA, May 28-31, 2024.
+
+1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim,  Hoon Sohn\*, [Automated region of interest (ROI) selection for structural displacement estimation using computer vision](https://mazhanxiong.github.io/files/KSCE2023.pdf), KSCE (Korean Society of Civil Engineering) 2023 Convention, Yeosu, South Korea, October 18-20, 2023.
+
+1. Liu Yang, Jack C.P. Cheng, Hoon Sohn\*, **Zhanxiong Ma**, Ikgeun Jeon, Peipei Liu, [Real-time corner height estimation for multi-layer directed energy deposition using laser line scanner, vision camera, and artificial neural network](https://mazhanxiong.github.io/files/EC32023.pdf), 2023 European Conference on Computing in Construction (EC³ 2023), Crete, Greece, July 10-12, 2023.
 
 1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. [Structural displacement estimation using high-sampling acceleration and temporally-aliased low-sampling vision measurements](https://mazhanxiong.github.io/files/SPIE2023_DISP.pdf), SPIE Smart Structures + Nondestructive Evaluation conference (SPIE 2023), California, USA, March 12-16, 2023.
 
