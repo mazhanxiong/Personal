@@ -24,17 +24,19 @@ redirect_from:
   
 ## Awards and Honors
 
-* **2017/08: KAIST International Scholarship**: Daejeon, Korea Advanced Institute of Science and Technology.
+* **2024/01: The First Prize**, The 3rd International Competition for Structural Health Monitoring (IC-SHM 2022) (Project 2: Computer Vision-based Dynamic Displacement Measurement) [[Link](https://shmc.tongji.edu.cn/Announcement/list.htm)]
 
-* **2017/04: Provincial Excellent Graduate Student**: Chongqing, Chongqing Education Commission (awarded to 1/101 students).
+* **2017/08: KAIST International Scholarship**: Korea Advanced Institute of Science and Technology.
 
-* **2017/03: Excellent Graduate Student**: Chongqing, Chongqing University.
+* **2017/04: Provincial Excellent Graduate Student**: Chongqing Education Commission (awarded to 1/101 students).
 
-* **2016/12: National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China (awarded to 2/101 students). 
+* **2017/03: Excellent Graduate Student**: Chongqing University.
+
+* **2016/12: National Postgraduate Scholarship**: Ministry of Education of the People's Republic of China (awarded to 2/101 students). 
  
-* **2015/12: National Postgraduate Scholarship**: Chongqing, Ministry of Education of the People's Republic of China (awarded to 5/101 students). 
+* **2015/12: National Postgraduate Scholarship**: Ministry of Education of the People's Republic of China (awarded to 5/101 students). 
 
-* **2014/06: Excellent Undergraduate Student**: Wuhan, Huazhong University of Science and Technology.
+* **2014/06: Excellent Undergraduate Student**: Huazhong University of Science and Technology.
 
-* **2012/12: Merit Student**: Wuhan, Huazhong University of Science and Technology.
+* **2012/12: Merit Student**: Huazhong University of Science and Technology.
 
