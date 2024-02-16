@@ -5,7 +5,8 @@ author_profile: true
 ---
 ## Journal Papers
 
-
+1. **Zhanxiong Ma**, Kyuwon Han, Jaemook Choi, Jigu Lee, Ohjun Kwon, Hoon Sohn\*, Jingxiao Liu, Doyun Hwang, Jatin Aggarwal, Haeyoung Noh, Enjian Cai, Yi Zhang. Development and field deployment validation of a low-cost and high-precision displacement sensing system by fusing millimeter-wave radar and accelerometer, Under review, 2024.
+  
 1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. [High-sampled structural displacement estimation through the FIR filter-based two-stage fusion of high-sampled acceleration and temporally aliased low-sampled displacement measurements](https://mazhanxiong.github.io/files/MSSP2024a.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2024, 208: 111056, DOI: 10.1016/j.engstruct.2023.111056.
 
 1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Three-dimensional structural displacement estimation by fusing monocular camera and accelerometer using adaptive multi-rate Kalman filter](https://mazhanxiong.github.io/files/ES2023b.pdf), *Engineering Structures (IF: 5.582, JCR Q1, 20/138 in Engineering, Civil)*, 2023, 292: 116535, DOI: 10.1016/j.engstruct.2023.116535.
@@ -86,11 +87,11 @@ author_profile: true
 
 ## Patents
 
-1. Hoon Sohn, **Zhanxiong Ma**, Jaemook Choi, Method of Estimating Displacement of Structure and System for the Same, [KR Patent](https://mazhanxiong.github.io/files/KR_RADAR.pdf) (Application #: 10-2022-0071762), June 2022; PCT Patent (Application #: PCT/KR2022/018878), November 2022; US Patent (Application #: TBD, Under evaluation), November 2022.
+1. Hoon Sohn, **Zhanxiong Ma**, Jaemook Choi, Method of Estimating Displacement of Structure and System for the Same, [KR Patent](https://mazhanxiong.github.io/files/KR_RADAR.pdf) (Application #: 10-2022-0071762), June 2022; [PCT Patent]() (Application #: PCT/KR2022/018878), November 2022; US Patent (Application #: TBD, Under evaluation), November 2022.
 
-2. Hoon Sohn, Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Method of Estimating Displacement of Structure based on Fusing Asynchronous Acceleration and Vision Measurements Using Natural Target and System for the Same, [KR Patent](https://mazhanxiong.github.io/files/KR_VISION.pdf) (Application #: 10-2021-0047367), April 2021; PCT Patent (Application #: PCT/KR2022/003490), March 2022; [US Patent](https://mazhanxiong.github.io/files/US_VISION.pdf) (Application #: US18554919), October 2023; CN Patent (Application #: TBD), July 2021;
+2. Hoon Sohn, Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim, Method of Estimating Displacement of Structure based on Fusing Asynchronous Acceleration and Vision Measurements Using Natural Target and System for the Same, [KR Patent](https://mazhanxiong.github.io/files/KR_VISION.pdf) (Application #: 10-2021-0047367), April 2021; [PCT Patent]() (Application #: PCT/KR2022/003490), March 2022; [US Patent](https://mazhanxiong.github.io/files/US_VISION.pdf) (Application #: US18554919), October 2023; [CN Patent]() (Application #: CN117480356A), January 2024;
 
-3. Hoon Sohn, **Zhanxiong Ma**, A method of estimating displacement of a bridge and an electronic device to estimate displacement of a bridge, [KR Patent](https://mazhanxiong.github.io/files/KR_P_0072048.pdf) (Application #: 10-2020-0072048; Registration #: 10-2387166-0000), June 2020; PCT Patent (Application #: PCT/KR2021/006978), June 2021; [US Patent](https://mazhanxiong.github.io/files/US_STRAIN.pdf) (Application #: US17908410), August 2022; [CN Patent](https://mazhanxiong.github.io/files/CN_STRAIN.pdf) (Application #: CN202180041905.1), December 2022.
+3. Hoon Sohn, **Zhanxiong Ma**, A method of estimating displacement of a bridge and an electronic device to estimate displacement of a bridge, [KR Patent](https://mazhanxiong.github.io/files/KR_P_0072048.pdf) (Application #: 10-2020-0072048; Registration #: 10-2387166-0000), June 2020; [PCT Patent]() (Application #: PCT/KR2021/006978), June 2021; [US Patent](https://mazhanxiong.github.io/files/US_STRAIN.pdf) (Application #: US17908410), August 2022; [CN Patent](https://mazhanxiong.github.io/files/CN_STRAIN.pdf) (Application #: CN115698625A), February 2023.
 
 4. Yingfeng Dong, Kaiqi He, Song Lin, Song Xu, **Zhanxiong Ma**, Wave selection method for bi-directional earthquake motions, [CN Patent](https://mazhanxiong.github.io/files/CN_WAVE.pdf) (Application #: CN201710326362.3; Publication #: CN107145750A), May 2017.
 
